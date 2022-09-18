@@ -1,7 +1,7 @@
 
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hybridvamp.hybridvamp)
+<p align="center"><img src="https://profile-counter.glitch.me/{HYBRIDVAMP}/count.svg" alt="hybridvamp's :: Visitor's Count" /></p>
 
 
 ![HYBRID's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybridvamp&show_icons=true&theme=dark&hide_border=true)
