@@ -16,4 +16,4 @@
 ![](https://img.shields.io/badge/Code-Windows-informational?style=flat&logo=Node.js&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=6aa6f8)
