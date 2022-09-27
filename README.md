@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{HYBRIDVAMP}/count.svg" alt="hybridvamp's :: Visitor's Count" /></p>
 
-[![@hybrid's Holopin board](https://holopin.io/api/user/board?user=hybrid)](https://holopin.io/@hybrid
+[![@hybrid's Holopin board](https://holopin.io/api/user/board?user=hybrid)](https://holopin.io/@hybrid)
 
 ![HYBRID's GitHub stats](https://github-readme-stats.vercel.app/api?username=hybridvamp&show_icons=true&theme=dark&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hybridvamp&theme=dark&hide_border=true&border_radius=10&fire=0577DD)](https://git.io/streak-stats)
