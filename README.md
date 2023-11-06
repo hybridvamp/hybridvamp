@@ -1,7 +1,3 @@
-
-
-[![@hybrid's Holopin board](https://holopin.io/api/user/board?user=hybrid)](https://holopin.io/@hybrid)
-
 <h1 align="center">Hi 👋, I'm Hybrid</h1>
 <h3 align="center">Student who likes to learn</h3>
 
@@ -43,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hybridvamp&show_icons=true&locale=en" alt="hybridvamp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hybridvamp&" alt="hybridvamp" /></p>
+
+[![@hybrid's Holopin board](https://holopin.io/api/user/board?user=hybrid)](https://holopin.io/@hybrid)
+
