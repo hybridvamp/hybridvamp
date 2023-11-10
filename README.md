@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hybrid</h1>
-<h3 align="center">Student who likes to learn</h3>
+<h3 align="center">A person who likes to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hybridvamp&label=Profile%20views&color=0e75b6&style=flat" alt="hybridvamp" /> </p>
 
